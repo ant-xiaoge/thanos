@@ -289,7 +289,7 @@ replace (
 
 	// Pin kuberesolver/v5 to support new grpc version. Need to upgrade kuberesolver version on weaveworks/common.
 	github.com/sercand/kuberesolver/v4 => github.com/sercand/kuberesolver/v5 v5.1.1
-	github.com/thanos-io/objstore => github.com/ant-xiaoge/objstore v0.0.0-20241111205755-d1dd89d41f97
+	github.com/thanos-io/objstore => github.com/ant-xiaoge/objstore v0.0.0-20241219010925-6d1000195b28
 	github.com/vimeo/galaxycache => github.com/thanos-community/galaxycache v0.0.0-20211122094458-3a32041a1f1e
 
 	// Pinning grpc due https://github.com/grpc/grpc-go/issues/7314
